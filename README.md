@@ -4,15 +4,15 @@
 
 IP電話とチャットツール
 
-C言語
+使用言語: C
 
 
 ## exercise
 2A「プログラミング基礎演習」
 
-独立成分分析(ICA)
+独立成分分析(ICA)のツール
 
-Python
+使用言語: Python
 
 
 ## processor
@@ -20,7 +20,7 @@ Python
 
 RISC-V命令セットを実行可能なシングルサイクルプロセッサ
 
-Verilog
+使用言語: Verilog
 
 
 ## software
@@ -28,8 +28,8 @@ Verilog
 
 ゲームやお絵かきソフトなど
 
-C言語
+使用言語: C
 
 
 ## doss
-3Aの後期実験「大規模ソフトウェアを手探る」で作成したブログは[こちら](https://doss2021-7.hatenadiary.com/)
+3A後期実験「大規模ソフトウェアを手探る」で作成したブログは[こちら](https://doss2021-7.hatenadiary.com/)

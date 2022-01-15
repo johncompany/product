@@ -1,3 +1,12 @@
+/*
+TCP通信によるIP電話
+
+使い方
+サーバ: 自分の使うポート番号を指定する
+クライアント: サーバのIPアドレスとポート番号を入力する
+*/
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <errno.h>

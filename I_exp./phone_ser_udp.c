@@ -1,3 +1,11 @@
+/*
+UDP通信によるIP電話(サーバ側)
+
+使い方
+自分の使うポート番号を指定する
+*/
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

@@ -1,3 +1,11 @@
+/*
+UDP通信によるIP電話(クライアント側)
+
+使い方
+サーバのIPアドレスとポート番号を入力する
+*/
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

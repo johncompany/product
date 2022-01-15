@@ -1,7 +1,7 @@
 # product
-## I_exp.
-3A前期実験「I実験」
-- IP電話および複数人チャットツール
+## software
+2A「ソフトウェアI(II)」
+- ゲームやお絵かきソフトなど
 - 使用言語: C
 
 
@@ -11,18 +11,18 @@
 - 使用言語: Python
 
 
+## I_exp.
+3S前期実験「I実験」
+- IP電話および複数人チャットツール
+- 使用言語: C
+
+
 ## processor
 3A後期実験「マイクロプロセッサの設計と実装」
 - シングルサイクルプロセッサ
 - 命令セット: [RV32IM](https://riscv.org/technical/specifications/)
 - 動作周波数: 10 MHz
 - 使用言語: Verilog
-
-
-## software
-2A「ソフトウェアI(II)」
-- ゲームやお絵かきソフトなど
-- 使用言語: C
 
 
 ## doss

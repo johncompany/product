@@ -4,11 +4,17 @@
 - ゲームやお絵かきソフトなど
 - 使用言語: C
 
-***2048:***
+***2048ゲーム:***
+
 ![2048](https://github.com/johncompany/product/assets/72188206/c858c3d9-3566-4a09-8c23-db5283145b80)
+
 ***ライフゲーム:***
 ![life](https://github.com/johncompany/product/assets/72188206/9b8c9c41-544f-44ef-886e-ee728637a3b4)
+
+***ペイントソフト:***
 ![paint](https://github.com/johncompany/product/assets/72188206/4fef7aae-dc73-4bc8-9fc1-e8542669e0fd)
+
+***蛇のゲーム:***
 ![snake](https://github.com/johncompany/product/assets/72188206/efd36483-ddb0-4276-874b-8dcec77e60cb)
 
 

@@ -32,6 +32,8 @@
 - IP電話および複数人チャットツール
 - 使用言語: C
 
+<img width="1139" alt="chat" src="https://github.com/johncompany/product/assets/72188206/a10b2ddd-152b-476a-9111-2bf9f9304afe">
+
 
 ## processor
 3A後期実験「マイクロプロセッサの設計と実装」

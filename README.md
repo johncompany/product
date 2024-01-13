@@ -31,7 +31,7 @@
 - IP電話、複数人チャットツール
 - 使用言語: C
 
-<img width="1139" alt="chat" src="https://github.com/johncompany/product/assets/72188206/a10b2ddd-152b-476a-9111-2bf9f9304afe">
+<img width="1139" alt="chat" src="https://github.com/johncompany/product/assets/72188206/1a28d29a-5a8f-452a-9ba0-167880814094">
 
 
 ## processor

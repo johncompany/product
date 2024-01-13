@@ -4,6 +4,8 @@
 - ゲームやお絵かきソフトなど
 - 使用言語: C
 
+![2048](https://github.com/johncompany/product/assets/72188206/c858c3d9-3566-4a09-8c23-db5283145b80)
+
 
 ## exercise
 2A「プログラミング基礎演習」

@@ -6,7 +6,7 @@
 
 ***2048ゲーム:***
 
-![2048](https://github.com/johncompany/product/assets/72188206/c858c3d9-3566-4a09-8c23-db5283145b80)
+![2048](https://github.com/johncompany/product/assets/72188206/fae2c48d-42e7-490b-a1e7-a4b8882fd33f)
 
 ***ライフゲーム:***
 

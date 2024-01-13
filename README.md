@@ -1,7 +1,6 @@
 # product
 ## software
 2A「ソフトウェアI(II)」
-- ゲームやお絵かきソフトなど
 - 使用言語: C
 
 ***2048ゲーム:***
@@ -29,7 +28,7 @@
 
 ## I_exp.
 3S前期実験「I実験」
-- IP電話および複数人チャットツール
+- IP電話、複数人チャットツール
 - 使用言語: C
 
 <img width="1139" alt="chat" src="https://github.com/johncompany/product/assets/72188206/a10b2ddd-152b-476a-9111-2bf9f9304afe">
